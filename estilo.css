@@ -3,9 +3,7 @@ body{
     font-family: Helvetica;
 }
 div#conteudo{
-    padding: 10%;
-    padding-left: 3%;
-    padding: 3%;
+    padding: 0%;
 }
 div#cabeça{
     background-color: rgb(56, 56, 56);
