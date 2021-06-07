@@ -3,8 +3,9 @@ body{
     font-family: Helvetica;
 }
 div#conteudo{
-    margin: 50;
-    margin-top: 20px;
+    padding: 10%;
+    padding-left: 3%;
+    padding: 3%;
 }
 div#cabeça{
     background-color: rgb(56, 56, 56);
@@ -24,7 +25,7 @@ div#cabeça a:hover{
 div#corpo{
     background-color: rgb(110, 110, 110);
     color: beige;
-    padding: 5%;
+    padding: 3%;
 }
 div#corpo img{
     margin-left: 5%;
